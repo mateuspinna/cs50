@@ -1,0 +1,11 @@
+Perguntar ao usuário a altura da pirâmide
+Repetir a pergunta enquando o valor respondido for diferente de um numero inteiro entre {1 - 8}
+se o numero digitado for 1 o programa deverá exibir Bloco1 > "       #"
+se o numero digitado for 2 o programa deverá exibir Bloco1 \n Bloco 2 > "      ##"
+se o numero digitado for 3 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 > "     ###"
+se o numero digitado for 4 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 \n Bloco4 > "    ####"
+se o numero digitado for 5 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 \n Bloco4 \n Bloco5 > "   #####"
+se o numero digitado for 6 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 \n Bloco4 \n Bloco5 \n Bloco6 "  ######"
+se o numero digitado for 7 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 \n Bloco4 \n Bloco5 \n Bloco6 \n Bloco 7 > " #######"
+se o numero digitado for 8 o programa deverá exibir Bloco 1 \n Bloco 2 \n bloco 3 \n Bloco4 \n Bloco5 \n Bloco6 \n Bloco 7 \n bloco 8 > "########"
+Finalização do programa
